@@ -27,13 +27,13 @@ This application recognizes the speech spoken through system's mic and responds 
 
 ## Environment
 
-GPT_API_KEY (access key)
-API_URL (openai's chat completion url)
+1. GPT_API_KEY (access key)
+2. API_URL (openai's url)
 
 ## Usage
 
 1. Press the "Start" button to start the conversation with GPT.
-2. Once you stop speaking, the system may take 4-5 seconds to respond back.
+2. Once you stop speaking, the system may take 5-10 seconds to respond back.
 3. To stop the GPT and ask a new question, press the "Stop & Ask" button.
 4. To end the conversation with GPT, click on the "End" button.
 5. To refresh the chat, simply refresh the page.
