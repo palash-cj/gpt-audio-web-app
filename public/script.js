@@ -23,7 +23,7 @@ recognition.onspeechend = function() {
 };
 
 recognition.onerror = function(event) {
-  instructions.text("Please check your mic settings and try again.");
+  instructions.text("Please try again.");
   $("#start-btn").prop("disabled", false);
 };
   

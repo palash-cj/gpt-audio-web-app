@@ -14,7 +14,7 @@ This application recognizes the speech spoken through system's mic and responds 
 - [Packages](#packages)
 - [Contact](#contact)
 
-## Installation & Run
+## Installation
 
 1. Clone the repository (https://github.com/palash-cj/gpt-audio-web-app.git) or download the ZIP file.
 2. Navigate to the project directory.
