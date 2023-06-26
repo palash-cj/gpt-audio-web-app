@@ -10,6 +10,7 @@ This application recognizes the speech spoken through system's mic and responds 
 ## Table of Contents
 
 - [Installation](#installation)
+- [Environment] (#environment)
 - [Usage](#usage)
 - [Packages](#packages)
 - [Contact](#contact)
@@ -23,6 +24,11 @@ This application recognizes the speech spoken through system's mic and responds 
    ```shell
    npm install
    npm start 
+
+## Environment
+
+GPT_API_KEY (access key)
+API_URL (openai's chat completion url)
 
 ## Usage
 
